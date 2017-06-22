@@ -1,7 +1,7 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/home/zafuzi/.nuget/packages"
+      "/Users/zacharyfoutz/.nuget/packages"
     ]
   }
 }

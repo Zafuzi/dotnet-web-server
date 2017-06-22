@@ -1,0 +1,8 @@
+/Users/zacharyfoutz/git/dotnet-web-server/bin/Debug/netcoreapp1.0/dotnet-web-server.deps.json
+/Users/zacharyfoutz/git/dotnet-web-server/bin/Debug/netcoreapp1.0/dotnet-web-server.runtimeconfig.json
+/Users/zacharyfoutz/git/dotnet-web-server/bin/Debug/netcoreapp1.0/dotnet-web-server.runtimeconfig.dev.json
+/Users/zacharyfoutz/git/dotnet-web-server/bin/Debug/netcoreapp1.0/dotnet-web-server.dll
+/Users/zacharyfoutz/git/dotnet-web-server/bin/Debug/netcoreapp1.0/dotnet-web-server.pdb
+/Users/zacharyfoutz/git/dotnet-web-server/obj/Debug/netcoreapp1.0/dotnet-web-server.AssemblyInfo.cs
+/Users/zacharyfoutz/git/dotnet-web-server/obj/Debug/netcoreapp1.0/dotnet-web-server.dll
+/Users/zacharyfoutz/git/dotnet-web-server/obj/Debug/netcoreapp1.0/dotnet-web-server.pdb
